@@ -7,47 +7,47 @@
 
 *  **CHOROPLETH MAPS**
 
- * Choropleth Map of World
- * Choropleth Map of Asia
- * Choropleth Map of Europe
+   Choropleth Map of World
+   Choropleth Map of Asia
+   Choropleth Map of Europe
 
 
 * **LINE CHARTS**
 
- * Line Chart - Infection Rate of India
- * Line Chart - Death Rate of India
- * Line Chart - Recovery Rate of India
+   Line Chart - Infection Rate of India
+   Line Chart - Death Rate of India
+   Line Chart - Recovery Rate of India
 
 
 * **SCATTER PLOTS**
 
- * Scatter Plot - Confirmed v Active Case of India
- * Scatter Plot - Deaths v Recovered of India
+   Scatter Plot - Confirmed v Active Case of India
+   Scatter Plot - Deaths v Recovered of India
 
 
 * **PIE CHARTS**
 
- * Percentage of Total Deaths in 20 Most Affected Countries
- * Percentage of Total Recovered in 20 Most Affected Countries
+   Percentage of Total Deaths in 20 Most Affected Countries
+   Percentage of Total Recovered in 20 Most Affected Countries
 
 
 * **BAR CHARTS**
 
- * Comparison of Total Tests in 10 Most Affected Countries
- * Comparison of Deaths/Million in 10 Most Affected Countries
+   Comparison of Total Tests in 10 Most Affected Countries
+   Comparison of Deaths/Million in 10 Most Affected Countries
 
 
 * **BUBBLE CHART**
 
- * Bubble Plot for Total Cases v Total Deaths
+   Bubble Plot for Total Cases v Total Deaths
 
 
 * **SUNBURST CHART**
 
- * Sunburst Chart for Active Cases
+   Sunburst Chart for Active Cases
 
 
 * **3D PLOT**
 
- * 3D Plot for Total Case, Total Deaths and Total Recovered
+   3D Plot for Total Case, Total Deaths and Total Recovered
 
