@@ -1,4 +1,6 @@
 # Covid-19-Trend-Analysis-Plotly
+![ascot-covid-1203426591](https://github.com/user-attachments/assets/16e3f632-f389-4f5d-a2b5-8b19fb877e64)
+
 
     
 **Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe acute respiratory syndrome     coronavirus 2 (SARS-CoV-2). It was first identified in December 2019 in Wuhan, Hubei, China, and has resulted in an ongoing pandemic. As of 25 September 2020, more than 32.2 million cases have been reported across 188 countries and territories with more than 983,000 deaths; more than 22.2 million people have recovered.**
